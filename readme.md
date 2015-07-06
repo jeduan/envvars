@@ -1,4 +1,4 @@
-# envvars [![Build Status](https://travis-ci.org/jeduan/envvars.svg?branch=master)](https://travis-ci.org/jeduan/envvars)
+# envvars [![Build Status](https://travis-ci.org/jeduan/envvars.svg?branch=master)](https://travis-ci.org/jeduan/envvars) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
 > Parse exported environment variables from a string
 
