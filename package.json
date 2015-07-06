@@ -1,0 +1,32 @@
+{
+  "name": "envvars",
+  "version": "0.1.0",
+  "description": "",
+  "license": "MIT",
+  "repository": "jeduan/envvars",
+  "author": {
+    "name": "Jeduan Cornejo",
+    "email": "jeduan@gmail.com",
+    "url": "http://jeduan.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "node_modules/.bin/standard && node_modules/.bin/tape test.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "environment variables",
+    "env vars",
+    "unix"
+  ],
+  "dependencies": {
+    "camelcase": "^1.1.0"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
